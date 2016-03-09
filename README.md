@@ -5,6 +5,8 @@ Use this if you want to get the `placeholder` attribute to work cross browser an
 a larger plugin. If you want to get more HTML5 goodness cross browser, I suggest you take a look
 at [Modernizr](http://modernizr.com/) or the other great solutions out there.
 
+File modified for a demo !
+
 How to Use
 ---
 
